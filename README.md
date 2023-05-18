@@ -8,3 +8,5 @@
 5. [Marr's Approach to Vision](https://www.sciencedirect.com/science/article/abs/pii/0166223681900813)
 6. [Temporal epilepsy seizures monitoring and prediction using cross-correlation and chaos theory](https://pubmed.ncbi.nlm.nih.gov/26609376/)
 7. [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information](https://books.google.co.in/books?hl=en&lr=&id=D8XxCwAAQBAJ&oi=fnd&pg=PR7&dq=Vision:+A+Computational+Investigation+into+the+Human+Representation+and+Processing+of+Visual+Information&ots=KIRFK2-6bE&sig=s3FSBn92FoCA_MgogZjsujHDq6M&redir_esc=y#v=onepage&q=Vision%3A%20A%20Computational%20Investigation%20into%20the%20Human%20Representation%20and%20Processing%20of%20Visual%20Information&f=false)
+8. [Quasi-Random Initial Population for Genetic Algorithms](https://core.ac.uk/download/pdf/82606936.pdf)
+9. [A multi dynamics algorithm for global optimization](https://www.sciencedirect.com/science/article/pii/S0895717710001421)
