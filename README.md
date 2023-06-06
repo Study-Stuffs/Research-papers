@@ -15,6 +15,7 @@
 2. [Quasi-Random Initial Population for Genetic Algorithms](https://core.ac.uk/download/pdf/82606936.pdf)
 3. [A multi dynamics algorithm for global optimization](https://www.sciencedirect.com/science/article/pii/S0895717710001421)
 4. [Introduction to Stochastic processes](https://www.kent.ac.uk/smsas/personal/lb209/files/notes1.pdf)
+5. [Self-Improving Reactive Agents Based On Reinforcement Learning, Planning and Teaching](https://link.springer.com/article/10.1007/BF00992699)
 ---
 
 ## Others:
