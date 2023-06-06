@@ -14,7 +14,7 @@
 1. [Estimation of distribution algorithms](https://sci-hub.se/10.1007/978-3-662-43505-2_45)
 2. [Quasi-Random Initial Population for Genetic Algorithms](https://core.ac.uk/download/pdf/82606936.pdf)
 3. [A multi dynamics algorithm for global optimization](https://www.sciencedirect.com/science/article/pii/S0895717710001421)
-
+4. [Introduction to Stochastic processes](https://www.kent.ac.uk/smsas/personal/lb209/files/notes1.pdf)
 ---
 
 ## Others:
