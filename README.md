@@ -16,6 +16,7 @@
 3. [A multi dynamics algorithm for global optimization](https://www.sciencedirect.com/science/article/pii/S0895717710001421)
 4. [Introduction to Stochastic processes](https://www.kent.ac.uk/smsas/personal/lb209/files/notes1.pdf)
 5. [Self-Improving Reactive Agents Based On Reinforcement Learning, Planning and Teaching](https://link.springer.com/article/10.1007/BF00992699)
+6. [Influence maximization in social networks: Theories, methods and challenges](https://www.sciencedirect.com/science/article/pii/S2590005622000972)
 ---
 
 ## Others:
