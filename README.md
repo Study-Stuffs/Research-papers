@@ -24,3 +24,8 @@
 
 ## Others:
 1. [NANOTECHNOLOGY: ITS APPLICATION AND LIMITATION](https://www.researchgate.net/publication/368365688_NANOTECHNOLOGY_ITS_APPLICATION_AND_LIMITATION)
+
+---
+
+## Computational Psychiatry:
+1. [Computational Psychiatry and Computational Neurology: Seeking for Mechanistic Modeling in Cognitive Impairment and Dementia](https://www.frontiersin.org/articles/10.3389/fncom.2022.865805/full)
