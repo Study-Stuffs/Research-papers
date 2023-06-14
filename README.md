@@ -9,7 +9,8 @@
 6. [Temporal epilepsy seizures monitoring and prediction using cross-correlation and chaos theory](https://pubmed.ncbi.nlm.nih.gov/26609376/)
 7. [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information](https://books.google.co.in/books?hl=en&lr=&id=D8XxCwAAQBAJ&oi=fnd&pg=PR7&dq=Vision:+A+Computational+Investigation+into+the+Human+Representation+and+Processing+of+Visual+Information&ots=KIRFK2-6bE&sig=s3FSBn92FoCA_MgogZjsujHDq6M&redir_esc=y#v=onepage&q=Vision%3A%20A%20Computational%20Investigation%20into%20the%20Human%20Representation%20and%20Processing%20of%20Visual%20Information&f=false)
 8. [A general method to generate artificial spike train populations matching recorded neurons](https://github.com/selvamaran/publications/blob/main/10.1007%40s10827-020-00741-w%20A%20general%20method%20to%20generate%20artificial%20spike%20train%20populationsmatching%20recorded%20neurons.pdf)
-9. [Neural synchrony in cortical networks: history, concept and current status](https://www.frontiersin.org/articles/10.3389/neuro.07.017.2009/full)
+9. [Neural synchrony in cortical networks: history, concept and current status](https://www.frontiersin.org/articles/10.3389/neuro.07.017.2009/full)\
+10. [Sensitivity of Noisy Neurons to Coincident Inputs](https://www.jneurosci.org/content/31/47/17193.full)
 ---
 
 ## Algorithms:
