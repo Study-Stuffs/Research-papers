@@ -26,6 +26,7 @@
 
 ## Others:
 1. [NANOTECHNOLOGY: ITS APPLICATION AND LIMITATION](https://www.researchgate.net/publication/368365688_NANOTECHNOLOGY_ITS_APPLICATION_AND_LIMITATION)
+2. [The swimming neuron](http://romainbrette.fr/neuroscience-of-a-swimming-neuron/)
 
 ---
 
