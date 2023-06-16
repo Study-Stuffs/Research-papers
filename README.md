@@ -35,3 +35,4 @@
 1. [Computational Psychiatry and Computational Neurology: Seeking for Mechanistic Modeling in Cognitive Impairment and Dementia](https://www.frontiersin.org/articles/10.3389/fncom.2022.865805/full)
 2. [Artificial Intelligence for Neurological Disorders](https://www.sciencedirect.com/book/9780323902779/artificial-intelligence-for-neurological-disorders)
 3. [Under the Hood: Using Computational Psychiatry to Make Psychological Therapies More Mechanism-Focused](https://www.frontiersin.org/articles/10.3389/fpsyt.2020.00140/full)
+4. [FROM REINFORCEMENT LEARNING MODELS OF THE BASAL GANGLIA TO THE PATHOPHYSIOLOGY OF PSYCHIATRIC AND NEUROLOGICAL DISORDERS](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC4408000&blobtype=pdf)
