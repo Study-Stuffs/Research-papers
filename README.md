@@ -41,3 +41,4 @@
 
 ## Psychology:
 1. [Research Designs](https://nobaproject.com/modules/research-designs)
+2. [The Brain](https://nobaproject.com/modules/the-brain)
