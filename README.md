@@ -23,8 +23,7 @@
 7. [Learning to Discover Social Circles in Ego Networks](http://i.stanford.edu/~julian/pdfs/nips2012.pdf)
 8. [A Layer-Based Sequential Framework for Scene Generation with GANs](https://arxiv.org/pdf/1902.00671.pdf)
 9. [Interpolated Experience Replay for Improved Sample Efficiency of Model-Free Deep Reinforcement Learning Algorithms](https://dspace.mit.edu/bitstream/handle/1721.1/138972/Sander-rmsander-meng-eecs-2021-thesis.pdf?sequence=1&isAllowed=y)
-10. [Learning to Discover Social Circles in Ego Networks](http://i.stanford.edu/~julian/pdfs/nips2012.pdf)
----
+
 
 ## Others:
 1. [NANOTECHNOLOGY: ITS APPLICATION AND LIMITATION](https://www.researchgate.net/publication/368365688_NANOTECHNOLOGY_ITS_APPLICATION_AND_LIMITATION)
