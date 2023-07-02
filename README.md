@@ -47,3 +47,8 @@
 1. [Research Designs](https://nobaproject.com/modules/research-designs)
 2. [The Brain](https://nobaproject.com/modules/the-brain)
 3. [Conditioning and Learning](https://nobaproject.com/modules/conditioning-and-learning)
+
+---
+
+## Neural Networks:
+1. [Spiking neural networks, an introduction](https://dspace.library.uu.nl/bitstream/handle/1874/24416/vreeken_03_spikingneuralnetworks.pdf?sequence=2)
