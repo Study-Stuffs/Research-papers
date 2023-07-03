@@ -53,3 +53,4 @@
 ## Neuromorphic computing:
 1. [Spiking neural networks, an introduction](https://dspace.library.uu.nl/bitstream/handle/1874/24416/vreeken_03_spikingneuralnetworks.pdf?sequence=2)
 2. [Opportunities for neuromorphic computing algorithms and applications](https://www.nature.com/articles/s43588-021-00184-y)
+3. [Brian: a simulator for spiking neural networks in Python](https://www.frontiersin.org/articles/10.3389/neuro.11.005.2008/full)
