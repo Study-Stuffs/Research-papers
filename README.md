@@ -55,3 +55,4 @@
 2. [Opportunities for neuromorphic computing algorithms and applications](https://www.nature.com/articles/s43588-021-00184-y)
 3. [Brian: a simulator for spiking neural networks in Python](https://www.frontiersin.org/articles/10.3389/neuro.11.005.2008/full)
 4. [Deep Spiking Convolutional Neural Network Trained with Unsupervised Spike Timing Dependent Plasticity](https://doi.org/10.1109/TCDS.2018.2833071)
+5. [Hodgkin-Huxley Models](http://nelson.beckman.illinois.edu/courses/physl317/part1/Lec3_HHsection.pdf)
