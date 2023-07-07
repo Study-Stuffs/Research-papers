@@ -56,3 +56,4 @@
 3. [Brian: a simulator for spiking neural networks in Python](https://www.frontiersin.org/articles/10.3389/neuro.11.005.2008/full)
 4. [Deep Spiking Convolutional Neural Network Trained with Unsupervised Spike Timing Dependent Plasticity](https://doi.org/10.1109/TCDS.2018.2833071)
 5. [Hodgkin-Huxley Models](http://nelson.beckman.illinois.edu/courses/physl317/part1/Lec3_HHsection.pdf)
+6. [Overview of Spiking Neural Network Learning Approaches and Their Computational Complexities](https://www.mdpi.com/1424-8220/23/6/3037#:~:text=They%20use%20discrete%20events%20called,individual%20architectures%20and%20learning%20algorithms)
