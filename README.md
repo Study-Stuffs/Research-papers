@@ -25,6 +25,7 @@
 9. [Interpolated Experience Replay for Improved Sample Efficiency of Model-Free Deep Reinforcement Learning Algorithms](https://dspace.mit.edu/bitstream/handle/1721.1/138972/Sander-rmsander-meng-eecs-2021-thesis.pdf?sequence=1&isAllowed=y)
 10. [Improving Friends Matching in Social Networks Using Graph Coloring](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjnnZ6YgOb_AhU6TWwGHfV_B70QFnoECA0QAQ&url=https%3A%2F%2Frajpub.com%2Findex.php%2Fijct%2Farticle%2Fview%2F1503%2Fpdf&usg=AOvVaw0mABDqggRnSjg8LlGNiECO&opi=89978449)
 11. [NodeRank: Finding infuential nodes in social networks based on interests](https://sci-hub.se/10.1007/s11227-021-03947-6)
+12. [Social Network Analysis: WOM Marketing in Rural India](https://github.com/simranvolunesia/Finding_Influential_Nodes_RuralSetting/blob/main/report.pdf)
 
 
 ## Others:
