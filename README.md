@@ -61,3 +61,4 @@
 6. [Hodgkin-Huxley Models](http://nelson.beckman.illinois.edu/courses/physl317/part1/Lec3_HHsection.pdf)
 7. [Overview of Spiking Neural Network Learning Approaches and Their Computational Complexities](https://www.mdpi.com/1424-8220/23/6/3037#:~:text=They%20use%20discrete%20events%20called,individual%20architectures%20and%20learning%20algorithms)
 8. [A QUANTITATIVE DESCRIPTION OF MEMBRANE CURRENT AND ITS APPLICATION TO CONDUCTION AND EXCITATION IN NERVE](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392413/pdf/jphysiol01442-0106.pdf)
+9. [The Hodgkin-Huxley theory of the action potential](https://www.nature.com/articles/nn1100_1165)
