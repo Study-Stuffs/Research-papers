@@ -63,3 +63,4 @@
 8. [A QUANTITATIVE DESCRIPTION OF MEMBRANE CURRENT AND ITS APPLICATION TO CONDUCTION AND EXCITATION IN NERVE](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392413/pdf/jphysiol01442-0106.pdf)
 9. [The Hodgkin-Huxley theory of the action potential](https://www.nature.com/articles/nn1100_1165)
 10. [Spike timing dependent plasticity: a consequence of more fundamental learning rules](https://www.frontiersin.org/articles/10.3389/fncom.2010.00019/full)
+11. [Spike-Timing-Dependent Plasticity (STDP)](https://sci-hub.se/https://doi.org/10.1016/B978-008045046-9.00822-6)
