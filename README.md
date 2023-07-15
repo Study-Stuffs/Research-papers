@@ -65,3 +65,4 @@
 10. [Spike timing dependent plasticity: a consequence of more fundamental learning rules](https://www.frontiersin.org/articles/10.3389/fncom.2010.00019/full)
 11. [Spike-Timing-Dependent Plasticity (STDP)](https://sci-hub.se/https://doi.org/10.1016/B978-008045046-9.00822-6)
 12. [Spiking Neural Networks Hardware Implementations and Challenges: A Survey](https://sci-hub.se/https://doi.org/10.1145/3304103)
+13. [Linear Leaky-Integrate-and-Fire Neuron Model Based Spiking Neural Networks and Its Mapping Relationship to Deep Neural Networks](https://arxiv.org/pdf/2207.04889.pdf)
