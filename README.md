@@ -67,3 +67,4 @@
 12. [Spiking Neural Networks Hardware Implementations and Challenges: A Survey](https://sci-hub.se/https://doi.org/10.1145/3304103)
 13. [Linear Leaky-Integrate-and-Fire Neuron Model Based Spiking Neural Networks and Its Mapping Relationship to Deep Neural Networks](https://arxiv.org/pdf/2207.04889.pdf)
 14. [Neuroplasticity](https://www.ncbi.nlm.nih.gov/books/NBK557811/#:~:text=It%20is%20defined%20as%20the,traumatic%20brain%20injury%20(TBI).)
+15. [Neuronal plasticity: historical roots and evolution of meaning](https://pubmed.ncbi.nlm.nih.gov/19002678/)
