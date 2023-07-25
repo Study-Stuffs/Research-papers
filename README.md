@@ -69,3 +69,4 @@
 14. [Neuroplasticity](https://www.ncbi.nlm.nih.gov/books/NBK557811/#:~:text=It%20is%20defined%20as%20the,traumatic%20brain%20injury%20(TBI).)
 15. [Neuronal plasticity: historical roots and evolution of meaning](https://pubmed.ncbi.nlm.nih.gov/19002678/)
 16. [Spike encoding techniques for IoT time-varying signals benchmarked on a neuromorphic classification task](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9811205/#:~:text=Encoding%20algorithms%20for%20spike%20generation,time%20unit%2C%20while%20Temporal%20Coding)
+17. [Neural Networks for Modeling Neural Spiking in S1 Cortex](https://www.frontiersin.org/articles/10.3389/fnsys.2019.00013/full)
