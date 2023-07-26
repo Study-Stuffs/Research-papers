@@ -34,6 +34,7 @@
 2. [The swimming neuron](http://romainbrette.fr/neuroscience-of-a-swimming-neuron/)
 3. [The dystrophin–glycoprotein complex in brain development and disease](https://sci-hub.se/10.1016/j.tins.2012.04.004)
 4. [Applications of Game Theory for Cyber Security System: A Survey](https://www.ripublication.com/ijaer18/ijaerv13n17_01.pdf)
+5. [Opportunities and challenges for machine learning in weather and climate modelling: hard, medium and soft AI](https://royalsocietypublishing.org/doi/10.1098/rsta.2020.0083)
 
 ---
 
