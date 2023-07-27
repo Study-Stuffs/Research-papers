@@ -36,6 +36,7 @@
 4. [Applications of Game Theory for Cyber Security System: A Survey](https://www.ripublication.com/ijaer18/ijaerv13n17_01.pdf)
 5. [Opportunities and challenges for machine learning in weather and climate modelling: hard, medium and soft AI](https://royalsocietypublishing.org/doi/10.1098/rsta.2020.0083)
 6. [Tackling Climate Change with Machine Learning](https://www.researchgate.net/publication/333773164_Tackling_Climate_Change_with_Machine_Learning)
+7. [Machine learning and artificial intelligence to aid climate change research and preparedness](https://iopscience.iop.org/article/10.1088/1748-9326/ab4e55/pdf)
 
 ---
 
