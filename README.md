@@ -27,6 +27,7 @@
 11. [NodeRank: Finding infuential nodes in social networks based on interests](https://sci-hub.se/10.1007/s11227-021-03947-6)
 12. [Social Network Analysis: WOM Marketing in Rural India](https://github.com/simranvolunesia/Finding_Influential_Nodes_RuralSetting/blob/main/report.pdf)
 13. [A community-based approach to identify the most influential nodes in social networks](https://sci-hub.se/https://doi.org/10.1177/0165551515621005)
+14. [Detecting influential nodes with topological structure via Graph Neural Network approach in social networks](https://link.springer.com/article/10.1007/s41870-023-01271-1)
 
 
 ## Others:
