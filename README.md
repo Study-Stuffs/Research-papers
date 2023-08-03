@@ -11,6 +11,7 @@
 8. [A general method to generate artificial spike train populations matching recorded neurons](https://github.com/selvamaran/publications/blob/main/10.1007%40s10827-020-00741-w%20A%20general%20method%20to%20generate%20artificial%20spike%20train%20populationsmatching%20recorded%20neurons.pdf)
 9. [Neural synchrony in cortical networks: history, concept and current status](https://www.frontiersin.org/articles/10.3389/neuro.07.017.2009/full)
 10. [Sensitivity of Noisy Neurons to Coincident Inputs](https://www.jneurosci.org/content/31/47/17193.full)
+11. [Implementation of an Automatic EEG Feature Extraction with Gated Recurrent Neural Network for Emotion Recognition](https://www.researchgate.net/profile/Shanthakumar-Palanisamy/publication/366957114_Computer_vision_and_Machine_intelligence_paradigms_for_SDGs/links/63bae9ac03aad5368e75aebc/Computer-vision-and-Machine-intelligence-paradigms-for-SDGs.pdf#page=142)
 ---
 
 ## Algorithms:
