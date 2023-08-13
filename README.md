@@ -56,6 +56,7 @@
 1. [Research Designs](https://nobaproject.com/modules/research-designs)
 2. [The Brain](https://nobaproject.com/modules/the-brain)
 3. [Conditioning and Learning](https://nobaproject.com/modules/conditioning-and-learning)
+4. [Differential Effect of Reward and Punishment on Procedural Learning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2765863/#:~:text=The%20rewarded%20group%20had%20a,groups%20when%20provided%20with%20incentives.)
 
 ---
 
