@@ -79,3 +79,4 @@
 16. [Neuronal plasticity: historical roots and evolution of meaning](https://pubmed.ncbi.nlm.nih.gov/19002678/)
 17. [Spike encoding techniques for IoT time-varying signals benchmarked on a neuromorphic classification task](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9811205/#:~:text=Encoding%20algorithms%20for%20spike%20generation,time%20unit%2C%20while%20Temporal%20Coding)
 18. [Neural Networks for Modeling Neural Spiking in S1 Cortex](https://www.frontiersin.org/articles/10.3389/fnsys.2019.00013/full)
+19. [A Neurocomputational Theory of How Rule-Guided Behaviors Become Automatic](https://mail.google.com/mail/u/1/#inbox/QgrcJHsHmZwnrxKplzFQhdbKBcjXHRNCmNV?projector=1&messagePartId=0.1)
