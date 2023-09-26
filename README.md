@@ -43,6 +43,8 @@
 7. [Machine learning and artificial intelligence to aid climate change research and preparedness](https://iopscience.iop.org/article/10.1088/1748-9326/ab4e55/pdf)
 8. [Application of Game Theory to Neuronal Networks](https://www.hindawi.com/journals/aai/2010/521606/)
 9. [LEARNING TO REINFORCEMENT LEARN](https://arxiv.org/pdf/1611.05763.pdf)
+10. [Adult neurogenesis acts as a neural regularizer](https://www.pnas.org/doi/10.1073/pnas.2206704119)
+11. [Neurogenesis Deep Learning](https://arxiv.org/abs/1612.03770)
 
 ---
 
