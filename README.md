@@ -89,3 +89,4 @@
 
 ## Deep learning:
 1. [Dying ReLU and Initialization: Theory and Numerical Examples](https://arxiv.org/pdf/1903.06733.pdf)
+2. [Deep Neuro-Fuzzy System application trends, challenges, and future perspectives: a systematic survey](https://link.springer.com/article/10.1007/s10462-022-10188-3)
