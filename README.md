@@ -48,13 +48,14 @@
 
 ---
 
-## Computational Psychiatry:
+## Computational Psychiatry and Neurodegenerative diseases:
 1. [Computational Psychiatry and Computational Neurology: Seeking for Mechanistic Modeling in Cognitive Impairment and Dementia](https://www.frontiersin.org/articles/10.3389/fncom.2022.865805/full)
 2. [Artificial Intelligence for Neurological Disorders](https://www.sciencedirect.com/book/9780323902779/artificial-intelligence-for-neurological-disorders)
 3. [Under the Hood: Using Computational Psychiatry to Make Psychological Therapies More Mechanism-Focused](https://www.frontiersin.org/articles/10.3389/fpsyt.2020.00140/full)
 4. [FROM REINFORCEMENT LEARNING MODELS OF THE BASAL GANGLIA TO THE PATHOPHYSIOLOGY OF PSYCHIATRIC AND NEUROLOGICAL DISORDERS](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC4408000&blobtype=pdf)
 5. [Dynamical systems in computational psychiatry: A toy-model to apprehend the dynamics of psychiatric symptoms](https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1099257/full)
-
+6. [Multimodal multitask deep learning model for Alzheimer’s disease progression detection based on time series data](https://www.sciencedirect.com/science/article/abs/pii/S0925231220309383?via%3Dihub)
+7. [Functional network segregation is associated with attenuated tau spreading in Alzheimer’s disease](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.12867)
 ---
 
 ## Psychology:
