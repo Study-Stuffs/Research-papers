@@ -13,6 +13,7 @@
 10. [Sensitivity of Noisy Neurons to Coincident Inputs](https://www.jneurosci.org/content/31/47/17193.full)
 11. [Implementation of an Automatic EEG Feature Extraction with Gated Recurrent Neural Network for Emotion Recognition](https://www.researchgate.net/profile/Shanthakumar-Palanisamy/publication/366957114_Computer_vision_and_Machine_intelligence_paradigms_for_SDGs/links/63bae9ac03aad5368e75aebc/Computer-vision-and-Machine-intelligence-paradigms-for-SDGs.pdf#page=142)
 12. [Application of Game Theory to Neuronal Networks](https://downloads.hindawi.com/archive/2010/521606.pdf)
+13. [The predictive mind: An introduction to Bayesian Brain Theory](https://pubmed.ncbi.nlm.nih.gov/35012898/#:~:text=Bayesian%20Brain%20Theory%2C%20a%20computational,formulation%20of%20these%20cognitive%20processes.)
 ---
 
 ## Algorithms:
