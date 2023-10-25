@@ -56,6 +56,7 @@
 5. [Dynamical systems in computational psychiatry: A toy-model to apprehend the dynamics of psychiatric symptoms](https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1099257/full)
 6. [Multimodal multitask deep learning model for Alzheimer’s disease progression detection based on time series data](https://www.sciencedirect.com/science/article/abs/pii/S0925231220309383?via%3Dihub)
 7. [Functional network segregation is associated with attenuated tau spreading in Alzheimer’s disease](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.12867)
+8. [Improved multimodal biomarkers for Alzheimer’s disease and Mild Cognitive Impairment diagnosis - data from ADNI](https://www.researchgate.net/profile/Victor-Trevino/publication/237198051_Improved_multimodal_biomarkers_for_Alzheimer%27s_disease_and_Mild_Cognitive_Impairment_diagnosis_-_data_from_ADNI/links/541994be0cf2218008bf927f/Improved-multimodal-biomarkers-for-Alzheimers-disease-and-Mild-Cognitive-Impairment-diagnosis-data-from-ADNI.pdf)
 ---
 
 ## Psychology:
